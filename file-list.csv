@@ -1,0 +1,356 @@
+001 Welcome and Introduction.mp4,01 - Getting Started
+002 Did you know... (a Sneak Preview on Crypto Trading).mp4,01 - Getting Started
+003 How to get the best out of this course.mp4,01 - Getting Started
+006 Course Overview.mp4,01 - Getting Started
+001 PART 1 Overview.mp4,"02 - +++ PART 1 Fundamentals of Trading, Binance and Python for Finance +++"
+001 Investing vs. (Algorithmic) Trading.mp4,"03 - Introduction to (Algorithmic) Trading, Cryptocurrencies and Binance"
+"002 Asset Classes, Money and (Crypto-) Currencies.mp4","03 - Introduction to (Algorithmic) Trading, Cryptocurrencies and Binance"
+003 What is a Stable Coin.mp4,"03 - Introduction to (Algorithmic) Trading, Cryptocurrencies and Binance"
+004 Why Trading Cryptocurrencies.mp4,"03 - Introduction to (Algorithmic) Trading, Cryptocurrencies and Binance"
+005 Why using Binance.mp4,"03 - Introduction to (Algorithmic) Trading, Cryptocurrencies and Binance"
+"006 Alternative Exchanges (FTX, Kraken, etc.).mp4","03 - Introduction to (Algorithmic) Trading, Cryptocurrencies and Binance"
+007 Spot Trading vs. Derivatives (Futures) Trading (Part 1).mp4,"03 - Introduction to (Algorithmic) Trading, Cryptocurrencies and Binance"
+008 Spot Trading vs. Derivatives (Futures) Trading (Part 2).mp4,"03 - Introduction to (Algorithmic) Trading, Cryptocurrencies and Binance"
+001 Binance.com and Binance.US at a first glance.mp4,04 - Cryptocurrency Trading and Investing with Binance A-Z a Deep Introduction
+003 Registration and Identity Verification.mp4,04 - Cryptocurrency Trading and Investing with Binance A-Z a Deep Introduction
+004 How to instantly buy your first Cryptos.mp4,04 - Cryptocurrency Trading and Investing with Binance A-Z a Deep Introduction
+005 Deposits and Withdrawals (Part 1).mp4,04 - Cryptocurrency Trading and Investing with Binance A-Z a Deep Introduction
+006 Deposits and Withdrawals (Part 2).mp4,04 - Cryptocurrency Trading and Investing with Binance A-Z a Deep Introduction
+007 The first Spot Trade (buy Bitcoin).mp4,04 - Cryptocurrency Trading and Investing with Binance A-Z a Deep Introduction
+008 Trade Analysis and Trading FeesCommissions.mp4,04 - Cryptocurrency Trading and Investing with Binance A-Z a Deep Introduction
+009 Another Spot Trade (sell Bitcoin).mp4,04 - Cryptocurrency Trading and Investing with Binance A-Z a Deep Introduction
+010 Limit Orders vs. Market Orders.mp4,04 - Cryptocurrency Trading and Investing with Binance A-Z a Deep Introduction
+011 Take-Profit Orders.mp4,04 - Cryptocurrency Trading and Investing with Binance A-Z a Deep Introduction
+012 Stop-Loss Orders.mp4,04 - Cryptocurrency Trading and Investing with Binance A-Z a Deep Introduction
+013 The Order Book.mp4,04 - Cryptocurrency Trading and Investing with Binance A-Z a Deep Introduction
+014 Bid-Ask-Spread and Slippage.mp4,04 - Cryptocurrency Trading and Investing with Binance A-Z a Deep Introduction
+015 Total Costs of a Trade (visible vs. hidden Costs).mp4,04 - Cryptocurrency Trading and Investing with Binance A-Z a Deep Introduction
+016 Liquidity and Market Depth.mp4,04 - Cryptocurrency Trading and Investing with Binance A-Z a Deep Introduction
+017 Introduction to Charting and Technical Indicators.mp4,04 - Cryptocurrency Trading and Investing with Binance A-Z a Deep Introduction
+001 Introduction.mp4,05 - Installing Python and Jupyter Notebooks
+002 Download and Install Anaconda.mp4,05 - Installing Python and Jupyter Notebooks
+003 How to open Jupyter Notebooks.mp4,05 - Installing Python and Jupyter Notebooks
+004 How to work with Jupyter Notebooks.mp4,05 - Installing Python and Jupyter Notebooks
+005 Tips for Python Beginners.mp4,05 - Installing Python and Jupyter Notebooks
+001 Introduction.mp4,06 - Excursus How to avoid and debug Coding Errors (don´t skip!)
+002 Test your debugging skills!.mp4,06 - Excursus How to avoid and debug Coding Errors (don´t skip!)
+003 Major reasons for Coding Errors.mp4,06 - Excursus How to avoid and debug Coding Errors (don´t skip!)
+004 The most commonly made Errors at a glance.mp4,06 - Excursus How to avoid and debug Coding Errors (don´t skip!)
+"005 Omitting cells, changing the sequence and more.mp4",06 - Excursus How to avoid and debug Coding Errors (don´t skip!)
+006 IndexErrors.mp4,06 - Excursus How to avoid and debug Coding Errors (don´t skip!)
+007 Indentation Errors.mp4,06 - Excursus How to avoid and debug Coding Errors (don´t skip!)
+008 Misuse of function names and keywords.mp4,06 - Excursus How to avoid and debug Coding Errors (don´t skip!)
+009 TypeErrors and ValueErrors.mp4,06 - Excursus How to avoid and debug Coding Errors (don´t skip!)
+010 Getting help on StackOverflow.com.mp4,06 - Excursus How to avoid and debug Coding Errors (don´t skip!)
+011 How to traceback more complex Errors.mp4,06 - Excursus How to avoid and debug Coding Errors (don´t skip!)
+012 Problems with the Python Installation.mp4,06 - Excursus How to avoid and debug Coding Errors (don´t skip!)
+013 External Factors and Issues.mp4,06 - Excursus How to avoid and debug Coding Errors (don´t skip!)
+014 Errors related to the course content (Transcription Errors).mp4,06 - Excursus How to avoid and debug Coding Errors (don´t skip!)
+015 Summary and Debugging Flow-Chart.mp4,06 - Excursus How to avoid and debug Coding Errors (don´t skip!)
+001 Overview.mp4,07 - Trading with Python and the Binance API - an Introduction
+002 Getting the API Key & other Preparations.mp4,07 - Trading with Python and the Binance API - an Introduction
+004 How to install the Binance API Wrapper.mp4,07 - Trading with Python and the Binance API - an Introduction
+005 Connecting to the APIServer.mp4,07 - Trading with Python and the Binance API - an Introduction
+008 Retrieving general accountsystem Info (Part 1).mp4,07 - Trading with Python and the Binance API - an Introduction
+009 Retrieving general accountsystem Info (Part 2).mp4,07 - Trading with Python and the Binance API - an Introduction
+010 Getting (current) Market Data.mp4,07 - Trading with Python and the Binance API - an Introduction
+011 How to load Historical Price & Volume Data (Part 1).mp4,07 - Trading with Python and the Binance API - an Introduction
+012 How to load Historical Price & Volume Data (Part 2).mp4,07 - Trading with Python and the Binance API - an Introduction
+013 Excursus Loading Historical Data (csv) from the Website.mp4,07 - Trading with Python and the Binance API - an Introduction
+014 Streaming real-time Market Data (Part 1).mp4,07 - Trading with Python and the Binance API - an Introduction
+016 Streaming real-time Market Data (Part 2).mp4,07 - Trading with Python and the Binance API - an Introduction
+017 Streaming and collecting real-time Candles.mp4,07 - Trading with Python and the Binance API - an Introduction
+018 Placing a Test Order.mp4,07 - Trading with Python and the Binance API - an Introduction
+019 The Binance Spot Test Network.mp4,07 - Trading with Python and the Binance API - an Introduction
+020 Creating a Connection to the Spot Testnet.mp4,07 - Trading with Python and the Binance API - an Introduction
+021 Spot Testnet API - Overview.mp4,07 - Trading with Python and the Binance API - an Introduction
+022 Placing a Market Buy Order.mp4,07 - Trading with Python and the Binance API - an Introduction
+023 Placing a Market Sell Order.mp4,07 - Trading with Python and the Binance API - an Introduction
+024 Placing Limit Orders.mp4,07 - Trading with Python and the Binance API - an Introduction
+025 Reporting Getting all (historical) Orders and Trades.mp4,07 - Trading with Python and the Binance API - an Introduction
+026 How to create & run a first (simple) Trading Bot.mp4,07 - Trading with Python and the Binance API - an Introduction
+001 Introduction and Overview.mp4,08 - Financial Data Analysis with Python and Pandas - a (deep) Introduction
+002 Installing and importing required LibrariesPackages.mp4,08 - Financial Data Analysis with Python and Pandas - a (deep) Introduction
+003 Loading Financial Data from the Web.mp4,08 - Financial Data Analysis with Python and Pandas - a (deep) Introduction
+004 Initial Inspection and Visualization.mp4,08 - Financial Data Analysis with Python and Pandas - a (deep) Introduction
+006 Normalizing Time Series to a Base Value (100).mp4,08 - Financial Data Analysis with Python and Pandas - a (deep) Introduction
+007 Coding Challenge #1.mp4,08 - Financial Data Analysis with Python and Pandas - a (deep) Introduction
+008 Price changes and Financial Returns.mp4,08 - Financial Data Analysis with Python and Pandas - a (deep) Introduction
+009 Reward and Risk of Financial Instruments.mp4,08 - Financial Data Analysis with Python and Pandas - a (deep) Introduction
+011 Investment Multiple and CAGR.mp4,08 - Financial Data Analysis with Python and Pandas - a (deep) Introduction
+012 Compound Returns & Geometric Mean Return.mp4,08 - Financial Data Analysis with Python and Pandas - a (deep) Introduction
+014 Discrete Compounding.mp4,08 - Financial Data Analysis with Python and Pandas - a (deep) Introduction
+015 Continuous Compounding.mp4,08 - Financial Data Analysis with Python and Pandas - a (deep) Introduction
+016 Log Returns.mp4,08 - Financial Data Analysis with Python and Pandas - a (deep) Introduction
+017 Simple Returns vs Log Returns ( Part 1).mp4,08 - Financial Data Analysis with Python and Pandas - a (deep) Introduction
+018 Simple Returns vs Log Returns ( Part 2).mp4,08 - Financial Data Analysis with Python and Pandas - a (deep) Introduction
+020 Comparing the Performance of Financial Instruments.mp4,08 - Financial Data Analysis with Python and Pandas - a (deep) Introduction
+021 (Non-) Normality of Financial Returns.mp4,08 - Financial Data Analysis with Python and Pandas - a (deep) Introduction
+022 Annualizing Return and Risk.mp4,08 - Financial Data Analysis with Python and Pandas - a (deep) Introduction
+023 Resampling  Smoothing of Financial Data.mp4,08 - Financial Data Analysis with Python and Pandas - a (deep) Introduction
+024 Rolling Statistics.mp4,08 - Financial Data Analysis with Python and Pandas - a (deep) Introduction
+026 Short Selling and Short Position Returns (Part 1).mp4,08 - Financial Data Analysis with Python and Pandas - a (deep) Introduction
+027 Introduction to Currencies (Forex) and Trading.mp4,08 - Financial Data Analysis with Python and Pandas - a (deep) Introduction
+028 Short Selling and Short Position Returns (Part 2).mp4,08 - Financial Data Analysis with Python and Pandas - a (deep) Introduction
+029 Short Selling and Short Position Returns (Part 3).mp4,08 - Financial Data Analysis with Python and Pandas - a (deep) Introduction
+031 Covariance and Correlation.mp4,08 - Financial Data Analysis with Python and Pandas - a (deep) Introduction
+032 Portfolios and Portfolio Returns.mp4,08 - Financial Data Analysis with Python and Pandas - a (deep) Introduction
+033 Margin Trading and Levered Returns (Part 1).mp4,08 - Financial Data Analysis with Python and Pandas - a (deep) Introduction
+034 Margin Trading and Levered Returns (Part 2).mp4,08 - Financial Data Analysis with Python and Pandas - a (deep) Introduction
+001 Overview.mp4,09 - +++ PART 2 Algorithmic Trading Spot Trading +++
+001 Trading Strategies - Overview.mp4,10 - What is a Trading Strategy
+003 Trading Strategies for Cryptocurrencies (best practices).mp4,10 - What is a Trading Strategy
+004 How to create your own Trading Strategies.mp4,10 - What is a Trading Strategy
+006 Getting the Data.mp4,10 - What is a Trading Strategy
+007 Financial Data Analysis  Visual Inspection.mp4,10 - What is a Trading Strategy
+008 A simple Buy and Hold Strategy.mp4,10 - What is a Trading Strategy
+009 Performance Measurement.mp4,10 - What is a Trading Strategy
+001 Introduction.mp4,11 - A Long-only Strategy based on Price & Volume Data
+002 Data Preparation.mp4,11 - A Long-only Strategy based on Price & Volume Data
+003 Explanatory Data Analysis Financial Returns and Trading Volume (Part 1).mp4,11 - A Long-only Strategy based on Price & Volume Data
+004 Explanatory Data Analysis Financial Returns and Trading Volume (Part 2).mp4,11 - A Long-only Strategy based on Price & Volume Data
+005 Formulating a Long-only Strategy based on Price & Volume Data.mp4,11 - A Long-only Strategy based on Price & Volume Data
+006 Strategy Backtesting.mp4,11 - A Long-only Strategy based on Price & Volume Data
+007 Trading Costs.mp4,11 - A Long-only Strategy based on Price & Volume Data
+002 Getting started.mp4,12 - Strategy Optimization and Forward Testing
+003 Strategy Optimization (Part 1).mp4,12 - Strategy Optimization and Forward Testing
+004 Strategy Optimization (Part 2).mp4,12 - Strategy Optimization and Forward Testing
+005 Putting everything together a Backtester Class.mp4,12 - Strategy Optimization and Forward Testing
+006 Backtesting & Forward Testing (Part 1).mp4,12 - Strategy Optimization and Forward Testing
+007 Backtesting & Forward Testing (Part 2).mp4,12 - Strategy Optimization and Forward Testing
+008 The Backtester Class explained (Part 1).mp4,12 - Strategy Optimization and Forward Testing
+009 The Backtester Class explained (Part 2).mp4,12 - Strategy Optimization and Forward Testing
+010 The Backtester Class explained (Part 3).mp4,12 - Strategy Optimization and Forward Testing
+011 The Backtester Class explained (Part 4).mp4,12 - Strategy Optimization and Forward Testing
+002 Getting started.mp4,13 - Implementation and Automation of Trading Strategies with Binance
+004 Recap Streaming and Collecting Real-Time Candles.mp4,13 - Implementation and Automation of Trading Strategies with Binance
+005 Creating the LongOnlyTrader Class.mp4,13 - Implementation and Automation of Trading Strategies with Binance
+006 Working with historical data and real-time data (Part 1).mp4,13 - Implementation and Automation of Trading Strategies with Binance
+007 Working with historical data and real-time data (Part 2).mp4,13 - Implementation and Automation of Trading Strategies with Binance
+008 Adding a Long-Only Trading Strategy.mp4,13 - Implementation and Automation of Trading Strategies with Binance
+009 Placing Orders and Executing Trades.mp4,13 - Implementation and Automation of Trading Strategies with Binance
+010 Trade Monitoring and Reporting.mp4,13 - Implementation and Automation of Trading Strategies with Binance
+011 How to setautomate the stop of a Trading Session.mp4,13 - Implementation and Automation of Trading Strategies with Binance
+001 Introduction.mp4,14 - A Long-Short Trading Strategy A-Z
+002 Getting started.mp4,14 - A Long-Short Trading Strategy A-Z
+003 Recap Explanatory Data Analysis and generating a Trading Idea.mp4,14 - A Long-Short Trading Strategy A-Z
+004 Defining the Long-Short Strategy.mp4,14 - A Long-Short Trading Strategy A-Z
+005 A Long-Short Backtesting Framework.mp4,14 - A Long-Short Trading Strategy A-Z
+006 Strategy Backtesting.mp4,14 - A Long-Short Trading Strategy A-Z
+007 A Long-Short Trading Framework.mp4,14 - A Long-Short Trading Strategy A-Z
+008 Implementing and Automating a Long-Short Trading Strategy.mp4,14 - A Long-Short Trading Strategy A-Z
+010 Preview Running a Python Trader Script.mp4,14 - A Long-Short Trading Strategy A-Z
+001 Introduction and Motivation.mp4,15 - Cloud Deployment (AWS)  Scheduling Trading Sessions  Full Automation
+004 How to create an EC2 Instance.mp4,15 - Cloud Deployment (AWS)  Scheduling Trading Sessions  Full Automation
+005 How to connect to your EC2 Instance.mp4,15 - Cloud Deployment (AWS)  Scheduling Trading Sessions  Full Automation
+007 Getting the Instance Ready for Algorithmic Trading.mp4,15 - Cloud Deployment (AWS)  Scheduling Trading Sessions  Full Automation
+008 How to run Python Scripts in a Windows Command Prompt.mp4,15 - Cloud Deployment (AWS)  Scheduling Trading Sessions  Full Automation
+010 How to start Trading sessions with Batch (.bat) Files.mp4,15 - Cloud Deployment (AWS)  Scheduling Trading Sessions  Full Automation
+011 How to schedule Trading sessions with the Task Scheduler.mp4,15 - Cloud Deployment (AWS)  Scheduling Trading Sessions  Full Automation
+001 Introduction.mp4,"16 - Ultimate Homework Challenge Create, Test and Implement your Strategy!"
+003 The Solution explained (Part 1).mp4,"16 - Ultimate Homework Challenge Create, Test and Implement your Strategy!"
+004 The Solution explained (Part 2).mp4,"16 - Ultimate Homework Challenge Create, Test and Implement your Strategy!"
+005 The Solution explained (Part 3).mp4,"16 - Ultimate Homework Challenge Create, Test and Implement your Strategy!"
+001 Overview.mp4,17 - +++ PART 3 Algorithmic Trading Futures Trading +++
+001 Creating an account on Binance Futures Testnet.mp4,18 - Futures Trading on Binance A-Z
+002 First Steps.mp4,18 - Futures Trading on Binance A-Z
+003 The first Futures Trade (Long).mp4,18 - Futures Trading on Binance A-Z
+004 Trade Analysis.mp4,18 - Futures Trading on Binance A-Z
+005 A trade with Leverage.mp4,18 - Futures Trading on Binance A-Z
+006 The impact of Leverage.mp4,18 - Futures Trading on Binance A-Z
+007 A Short Trade.mp4,18 - Futures Trading on Binance A-Z
+008 Margin Requirements and Liquidation (Part 1).mp4,18 - Futures Trading on Binance A-Z
+009 Margin Requirements and Liquidation (Part 2).mp4,18 - Futures Trading on Binance A-Z
+010 Excursus The Futures Calculator.mp4,18 - Futures Trading on Binance A-Z
+011 How to add Stop Loss to an open position.mp4,18 - Futures Trading on Binance A-Z
+012 Stop Loss (SL) and Take Profit (TP) Orders.mp4,18 - Futures Trading on Binance A-Z
+013 Margin Mode Cross vs. Isolated.mp4,18 - Futures Trading on Binance A-Z
+014 Position Mode One-way (Netting) vs. Hedging.mp4,18 - Futures Trading on Binance A-Z
+015 How to work with many open positions.mp4,18 - Futures Trading on Binance A-Z
+016 Introduction to the Funding Rate.mp4,18 - Futures Trading on Binance A-Z
+017 The Funding Rate explained (Part 1).mp4,18 - Futures Trading on Binance A-Z
+018 The Funding Rate explained (Part 2).mp4,18 - Futures Trading on Binance A-Z
+019 The Funding Rate explained (Part 3).mp4,18 - Futures Trading on Binance A-Z
+020 The Funding Rate live in action.mp4,18 - Futures Trading on Binance A-Z
+001 Introduction.mp4,19 - Backtesting Futures Trading Strategies with Leverage
+002 Getting the Data.mp4,19 - Backtesting Futures Trading Strategies with Leverage
+003 Backtesting without Leverage and Trading Costs in the Futures Market.mp4,19 - Backtesting Futures Trading Strategies with Leverage
+004 Recap Leverage and levered Returns.mp4,19 - Backtesting Futures Trading Strategies with Leverage
+005 Levered Returns a more realistic approach.mp4,19 - Backtesting Futures Trading Strategies with Leverage
+006 The Futures Backtesting Class live in action.mp4,19 - Backtesting Futures Trading Strategies with Leverage
+007 How to adjust the Framework to (levered) Futures Trading.mp4,19 - Backtesting Futures Trading Strategies with Leverage
+008 The impact of Leverage on Trading Performance.mp4,19 - Backtesting Futures Trading Strategies with Leverage
+001 Introduction and Preparations.mp4,20 - Implementing and automating Futures Trading on Binance
+002 The Binance Futures API.mp4,20 - Implementing and automating Futures Trading on Binance
+003 How to change Settings and Modes.mp4,20 - Implementing and automating Futures Trading on Binance
+004 Placing Market Orders (Part 1).mp4,20 - Implementing and automating Futures Trading on Binance
+005 Trade Analysis - Trade and Income History.mp4,20 - Implementing and automating Futures Trading on Binance
+006 Placing Market Orders (Part 2).mp4,20 - Implementing and automating Futures Trading on Binance
+007 Getting Historical Futures Market Data.mp4,20 - Implementing and automating Futures Trading on Binance
+008 Streaming Future Prices in real-time.mp4,20 - Implementing and automating Futures Trading on Binance
+009 A Futures Trading Bot (Part 1).mp4,20 - Implementing and automating Futures Trading on Binance
+010 A Futures Trading Bot (Part 2).mp4,20 - Implementing and automating Futures Trading on Binance
+001 Introduction.mp4,22 - API Trading with CCXT
+002 Preparations.mp4,22 - API Trading with CCXT
+003 First Steps with CCXT.mp4,22 - API Trading with CCXT
+004 General Exchange Information.mp4,22 - API Trading with CCXT
+005 The Public API.mp4,22 - API Trading with CCXT
+006 Loading Historical Data (Part 1).mp4,22 - API Trading with CCXT
+007 Loading Historical Data (Part 2).mp4,22 - API Trading with CCXT
+008 Streaming real-time Data (Part 1).mp4,22 - API Trading with CCXT
+009 Introduction to Multithreaded Programming.mp4,22 - API Trading with CCXT
+010 Streaming real-time Data (Part 2).mp4,22 - API Trading with CCXT
+011 Streaming real-time Data (Part 3).mp4,22 - API Trading with CCXT
+012 Getting Historical Data and Streaming live Data.mp4,22 - API Trading with CCXT
+013 The Private API.mp4,22 - API Trading with CCXT
+014 How to connect to Testnets (Sandbox mode).mp4,22 - API Trading with CCXT
+015 Creating Orders and analyzing Trades (Spot).mp4,22 - API Trading with CCXT
+016 Creating Orders and analyzing Trades (Futures).mp4,22 - API Trading with CCXT
+017 A CCXT Spot Trading Bot.mp4,22 - API Trading with CCXT
+018 Excursus Generalization.mp4,22 - API Trading with CCXT
+019 A CCXT Futures Trading Bot.mp4,22 - API Trading with CCXT
+001 Introduction.mp4,23 - API Trading with FTX
+003 Creating accounts on FTX.com and FTX.us.mp4,23 - API Trading with FTX
+004 FTX and CCXT - an Overview.mp4,23 - API Trading with FTX
+005 What you should consider for Backtesting.mp4,23 - API Trading with FTX
+006 An FTX Spot Trading Bot.mp4,23 - API Trading with FTX
+007 Futures Trading on FTX.mp4,23 - API Trading with FTX
+008 An FTX Futures Trading Bot.mp4,23 - API Trading with FTX
+001 Introduction and Overview.mp4,24 - +++ APPENDIX Python Crash Course +++
+001 Intro to the Time Value of Money (TVM) Concept (Theory).mp4,25 - Appendix 1 Python (& Finance) Basics
+002 Calculate Future Values (FV) with Python  Compounding.mp4,25 - Appendix 1 Python (& Finance) Basics
+003 Calculate Present Values (FV) with Python  Discounting.mp4,25 - Appendix 1 Python (& Finance) Basics
+004 Interest Rates and Returns (Theory).mp4,25 - Appendix 1 Python (& Finance) Basics
+005 Calculate Interest Rates and Returns with Python.mp4,25 - Appendix 1 Python (& Finance) Basics
+006 Introduction to Variables.mp4,25 - Appendix 1 Python (& Finance) Basics
+007 Excursus How to add inline comments.mp4,25 - Appendix 1 Python (& Finance) Basics
+008 Variables and Memory (Theory).mp4,25 - Appendix 1 Python (& Finance) Basics
+009 More on Variables and Memory.mp4,25 - Appendix 1 Python (& Finance) Basics
+"010 Variables - Dos, Don´ts and Conventions.mp4",25 - Appendix 1 Python (& Finance) Basics
+011 The print() Function.mp4,25 - Appendix 1 Python (& Finance) Basics
+012 Coding Exercise 1.mp4,25 - Appendix 1 Python (& Finance) Basics
+013 TVM Problems with many Cashflows.mp4,25 - Appendix 1 Python (& Finance) Basics
+014 Intro to Python Lists.mp4,25 - Appendix 1 Python (& Finance) Basics
+015 Zero-based Indexing and negative Indexing in Python (Theory).mp4,25 - Appendix 1 Python (& Finance) Basics
+016 Indexing Lists.mp4,25 - Appendix 1 Python (& Finance) Basics
+017 For Loops - Iterating over Lists.mp4,25 - Appendix 1 Python (& Finance) Basics
+018 The range Object - another Iterable.mp4,25 - Appendix 1 Python (& Finance) Basics
+019 Calculate FV and PV for many Cashflows.mp4,25 - Appendix 1 Python (& Finance) Basics
+020 The Net Present Value - NPV (Theory).mp4,25 - Appendix 1 Python (& Finance) Basics
+021 Calculate an Investment Project´s NPV.mp4,25 - Appendix 1 Python (& Finance) Basics
+022 Coding Exercise 2.mp4,25 - Appendix 1 Python (& Finance) Basics
+023 Data Types in Action.mp4,25 - Appendix 1 Python (& Finance) Basics
+024 The Data Type Hierarchy (Theory).mp4,25 - Appendix 1 Python (& Finance) Basics
+025 Excursus Dynamic Typing in Python.mp4,25 - Appendix 1 Python (& Finance) Basics
+026 Build-in Functions.mp4,25 - Appendix 1 Python (& Finance) Basics
+027 Integers.mp4,25 - Appendix 1 Python (& Finance) Basics
+028 Floats.mp4,25 - Appendix 1 Python (& Finance) Basics
+029 How to round Floats (and Integers) with round().mp4,25 - Appendix 1 Python (& Finance) Basics
+030 More on Lists.mp4,25 - Appendix 1 Python (& Finance) Basics
+031 Lists and Element-wise Operations.mp4,25 - Appendix 1 Python (& Finance) Basics
+032 Slicing Lists.mp4,25 - Appendix 1 Python (& Finance) Basics
+034 Changing Elements in Lists.mp4,25 - Appendix 1 Python (& Finance) Basics
+035 Sorting and Reversing Lists.mp4,25 - Appendix 1 Python (& Finance) Basics
+036 Adding and removing Elements fromto Lists.mp4,25 - Appendix 1 Python (& Finance) Basics
+037 Mutable vs. immutable Objects (Part 1).mp4,25 - Appendix 1 Python (& Finance) Basics
+038 Mutable vs. immutable Objects (Part 2).mp4,25 - Appendix 1 Python (& Finance) Basics
+039 Coding Exercise 3.mp4,25 - Appendix 1 Python (& Finance) Basics
+040 Tuples.mp4,25 - Appendix 1 Python (& Finance) Basics
+041 Dictionaries.mp4,25 - Appendix 1 Python (& Finance) Basics
+042 Intro to Strings.mp4,25 - Appendix 1 Python (& Finance) Basics
+043 String Replacement.mp4,25 - Appendix 1 Python (& Finance) Basics
+044 Booleans.mp4,25 - Appendix 1 Python (& Finance) Basics
+045 Operators (Theory).mp4,25 - Appendix 1 Python (& Finance) Basics
+"046 Comparison, Logical and Membership Operators in Action.mp4",25 - Appendix 1 Python (& Finance) Basics
+047 Coding Exercise 4.mp4,25 - Appendix 1 Python (& Finance) Basics
+048 Conditional Statements.mp4,25 - Appendix 1 Python (& Finance) Basics
+"049 Keywords pass, continue and break.mp4",25 - Appendix 1 Python (& Finance) Basics
+050 Calculate a Project´s Payback Period.mp4,25 - Appendix 1 Python (& Finance) Basics
+051 Introduction to while loops.mp4,25 - Appendix 1 Python (& Finance) Basics
+001 Defining your first user-defined Function.mp4,26 - Appendix 2 User-defined Functions
+002 What´s the difference between Positional Arguments vs. Keyword Arguments.mp4,26 - Appendix 2 User-defined Functions
+003 How to work with Default Arguments.mp4,26 - Appendix 2 User-defined Functions
+004 The Default Argument None.mp4,26 - Appendix 2 User-defined Functions
+005 How to unpack Iterables.mp4,26 - Appendix 2 User-defined Functions
+006 Sequences as arguments and args.mp4,26 - Appendix 2 User-defined Functions
+007 How to return many results.mp4,26 - Appendix 2 User-defined Functions
+008 Scope - easily explained.mp4,26 - Appendix 2 User-defined Functions
+"001 Modules, Packages and Libraries - No need to reinvent the Wheel.mp4","27 - Appendix 3 Numpy, Pandas, Matplotlib and Seaborn Crash Course"
+002 Numpy Arrays.mp4,"27 - Appendix 3 Numpy, Pandas, Matplotlib and Seaborn Crash Course"
+003 Indexing and Slicing Numpy Arrays.mp4,"27 - Appendix 3 Numpy, Pandas, Matplotlib and Seaborn Crash Course"
+004 Vectorized Operations with Numpy Arrays.mp4,"27 - Appendix 3 Numpy, Pandas, Matplotlib and Seaborn Crash Course"
+005 Changing Elements in Numpy Arrays & Mutability.mp4,"27 - Appendix 3 Numpy, Pandas, Matplotlib and Seaborn Crash Course"
+006 View vs. copy - potential Pitfalls when slicing Numpy Arrays.mp4,"27 - Appendix 3 Numpy, Pandas, Matplotlib and Seaborn Crash Course"
+007 Numpy Array Methods and Attributes.mp4,"27 - Appendix 3 Numpy, Pandas, Matplotlib and Seaborn Crash Course"
+008 Numpy Universal Functions.mp4,"27 - Appendix 3 Numpy, Pandas, Matplotlib and Seaborn Crash Course"
+009 Boolean Arrays and Conditional Filtering.mp4,"27 - Appendix 3 Numpy, Pandas, Matplotlib and Seaborn Crash Course"
+010 Advanced Filtering & Bitwise Operators.mp4,"27 - Appendix 3 Numpy, Pandas, Matplotlib and Seaborn Crash Course"
+011 Determining a Project´s Payback Period with np.where().mp4,"27 - Appendix 3 Numpy, Pandas, Matplotlib and Seaborn Crash Course"
+012 Creating Numpy Arrays from Scratch.mp4,"27 - Appendix 3 Numpy, Pandas, Matplotlib and Seaborn Crash Course"
+014 How to work with nested Lists.mp4,"27 - Appendix 3 Numpy, Pandas, Matplotlib and Seaborn Crash Course"
+015 2-dimensional Numpy Arrays.mp4,"27 - Appendix 3 Numpy, Pandas, Matplotlib and Seaborn Crash Course"
+016 How to slice 2-dim Numpy Arrays (Part 1).mp4,"27 - Appendix 3 Numpy, Pandas, Matplotlib and Seaborn Crash Course"
+017 How to slice 2-dim Numpy Arrays (Part 2).mp4,"27 - Appendix 3 Numpy, Pandas, Matplotlib and Seaborn Crash Course"
+018 Recap Changing Elements in a Numpy Array  slice.mp4,"27 - Appendix 3 Numpy, Pandas, Matplotlib and Seaborn Crash Course"
+019 How to perform row-wise and column-wise Operations.mp4,"27 - Appendix 3 Numpy, Pandas, Matplotlib and Seaborn Crash Course"
+021 Intro to Tabular Data  Pandas.mp4,"27 - Appendix 3 Numpy, Pandas, Matplotlib and Seaborn Crash Course"
+022 Create your very first Pandas DataFrame (from csv).mp4,"27 - Appendix 3 Numpy, Pandas, Matplotlib and Seaborn Crash Course"
+023 Pandas Display Options and the methods head() & tail().mp4,"27 - Appendix 3 Numpy, Pandas, Matplotlib and Seaborn Crash Course"
+024 First Data Inspection.mp4,"27 - Appendix 3 Numpy, Pandas, Matplotlib and Seaborn Crash Course"
+026 Selecting Columns.mp4,"27 - Appendix 3 Numpy, Pandas, Matplotlib and Seaborn Crash Course"
+027 Selecting one Column with the dot notation.mp4,"27 - Appendix 3 Numpy, Pandas, Matplotlib and Seaborn Crash Course"
+028 Zero-based Indexing and Negative Indexing.mp4,"27 - Appendix 3 Numpy, Pandas, Matplotlib and Seaborn Crash Course"
+029 Selecting Rows with iloc (position-based indexing).mp4,"27 - Appendix 3 Numpy, Pandas, Matplotlib and Seaborn Crash Course"
+030 Slicing Rows and Columns with iloc (position-based indexing).mp4,"27 - Appendix 3 Numpy, Pandas, Matplotlib and Seaborn Crash Course"
+032 Selecting Rows with loc (label-based indexing).mp4,"27 - Appendix 3 Numpy, Pandas, Matplotlib and Seaborn Crash Course"
+033 Slicing Rows and Columns with loc (label-based indexing).mp4,"27 - Appendix 3 Numpy, Pandas, Matplotlib and Seaborn Crash Course"
+"035 Summary, Best Practices and Outlook.mp4","27 - Appendix 3 Numpy, Pandas, Matplotlib and Seaborn Crash Course"
+037 First Steps with Pandas Series.mp4,"27 - Appendix 3 Numpy, Pandas, Matplotlib and Seaborn Crash Course"
+040 The copy() method.mp4,"27 - Appendix 3 Numpy, Pandas, Matplotlib and Seaborn Crash Course"
+041 Sorting of Series and Introduction to the inplace - parameter.mp4,"27 - Appendix 3 Numpy, Pandas, Matplotlib and Seaborn Crash Course"
+042 First Steps with Pandas Index Objects.mp4,"27 - Appendix 3 Numpy, Pandas, Matplotlib and Seaborn Crash Course"
+043 Changing Row Index with set_index() and reset_index().mp4,"27 - Appendix 3 Numpy, Pandas, Matplotlib and Seaborn Crash Course"
+044 Changing Column Labels.mp4,"27 - Appendix 3 Numpy, Pandas, Matplotlib and Seaborn Crash Course"
+045 Renaming Index & Column Labels with rename().mp4,"27 - Appendix 3 Numpy, Pandas, Matplotlib and Seaborn Crash Course"
+046 Filtering DataFrames (one Condition).mp4,"27 - Appendix 3 Numpy, Pandas, Matplotlib and Seaborn Crash Course"
+047 Filtering DataFrames by many Conditions (AND).mp4,"27 - Appendix 3 Numpy, Pandas, Matplotlib and Seaborn Crash Course"
+048 Filtering DataFrames by many Conditions (OR).mp4,"27 - Appendix 3 Numpy, Pandas, Matplotlib and Seaborn Crash Course"
+"049 Advanced Filtering with between(),  isin() and ~.mp4","27 - Appendix 3 Numpy, Pandas, Matplotlib and Seaborn Crash Course"
+050 Intro to NA Values  missing Values.mp4,"27 - Appendix 3 Numpy, Pandas, Matplotlib and Seaborn Crash Course"
+051 Handling NA Values  missing Values.mp4,"27 - Appendix 3 Numpy, Pandas, Matplotlib and Seaborn Crash Course"
+052 Exporting DataFrames to csv.mp4,"27 - Appendix 3 Numpy, Pandas, Matplotlib and Seaborn Crash Course"
+053 Summary Statistics and Accumulations.mp4,"27 - Appendix 3 Numpy, Pandas, Matplotlib and Seaborn Crash Course"
+054 Visualization with Matplotlib (Intro).mp4,"27 - Appendix 3 Numpy, Pandas, Matplotlib and Seaborn Crash Course"
+055 Customization of Plots.mp4,"27 - Appendix 3 Numpy, Pandas, Matplotlib and Seaborn Crash Course"
+056 Histogramms (Part 1).mp4,"27 - Appendix 3 Numpy, Pandas, Matplotlib and Seaborn Crash Course"
+057 Histogramms (Part 2).mp4,"27 - Appendix 3 Numpy, Pandas, Matplotlib and Seaborn Crash Course"
+058 Scatterplots.mp4,"27 - Appendix 3 Numpy, Pandas, Matplotlib and Seaborn Crash Course"
+059 First Steps with Seaborn.mp4,"27 - Appendix 3 Numpy, Pandas, Matplotlib and Seaborn Crash Course"
+060 Categorical Seaborn Plots.mp4,"27 - Appendix 3 Numpy, Pandas, Matplotlib and Seaborn Crash Course"
+061 Seaborn Regression Plots.mp4,"27 - Appendix 3 Numpy, Pandas, Matplotlib and Seaborn Crash Course"
+062 Seaborn Heatmaps.mp4,"27 - Appendix 3 Numpy, Pandas, Matplotlib and Seaborn Crash Course"
+063 Removing Columns.mp4,"27 - Appendix 3 Numpy, Pandas, Matplotlib and Seaborn Crash Course"
+064 Introduction to GroupBy Operations.mp4,"27 - Appendix 3 Numpy, Pandas, Matplotlib and Seaborn Crash Course"
+065 Understanding the GroupBy Object.mp4,"27 - Appendix 3 Numpy, Pandas, Matplotlib and Seaborn Crash Course"
+066 Splitting with many Keys.mp4,"27 - Appendix 3 Numpy, Pandas, Matplotlib and Seaborn Crash Course"
+067 split-apply-combine.mp4,"27 - Appendix 3 Numpy, Pandas, Matplotlib and Seaborn Crash Course"
+001 Helpful DatetimeIndex Attributes and Methods.mp4,28 - Appendix 4 Advanced Pandas Time Series Topics
+"002 Filling NA Values with bfill, ffill and interpolation.mp4",28 - Appendix 4 Advanced Pandas Time Series Topics
+003 Timezones and Converting (Part 1).mp4,28 - Appendix 4 Advanced Pandas Time Series Topics
+004 Timezones and Converting (Part 2).mp4,28 - Appendix 4 Advanced Pandas Time Series Topics
+001 Introduction to OOP and examples for Classes.mp4,29 - Appendix 5 Object Oriented Programming (OOP) Creating a Finance Class
+002 The Financial Analysis Class live in action (Part 1).mp4,29 - Appendix 5 Object Oriented Programming (OOP) Creating a Finance Class
+003 The Financial Analysis Class live in action (Part 2).mp4,29 - Appendix 5 Object Oriented Programming (OOP) Creating a Finance Class
+004 The special method __init__().mp4,29 - Appendix 5 Object Oriented Programming (OOP) Creating a Finance Class
+005 The method get_data().mp4,29 - Appendix 5 Object Oriented Programming (OOP) Creating a Finance Class
+006 The method log_returns().mp4,29 - Appendix 5 Object Oriented Programming (OOP) Creating a Finance Class
+007 String representation and the special method __repr__().mp4,29 - Appendix 5 Object Oriented Programming (OOP) Creating a Finance Class
+008 The methods plot_prices() and plot_returns().mp4,29 - Appendix 5 Object Oriented Programming (OOP) Creating a Finance Class
+009 Encapsulation and protected Attributes.mp4,29 - Appendix 5 Object Oriented Programming (OOP) Creating a Finance Class
+010 The method set_ticker().mp4,29 - Appendix 5 Object Oriented Programming (OOP) Creating a Finance Class
+011 Adding more methods and performance metrics.mp4,29 - Appendix 5 Object Oriented Programming (OOP) Creating a Finance Class
+012 Inheritance.mp4,29 - Appendix 5 Object Oriented Programming (OOP) Creating a Finance Class
+013 Inheritance and the super() Function.mp4,29 - Appendix 5 Object Oriented Programming (OOP) Creating a Finance Class
+014 Adding meaningful Docstrings.mp4,29 - Appendix 5 Object Oriented Programming (OOP) Creating a Finance Class
+015 Creating and Importing Python Modules (.py).mp4,29 - Appendix 5 Object Oriented Programming (OOP) Creating a Finance Class
+016 Coding Exercise Create your own Class.mp4,29 - Appendix 5 Object Oriented Programming (OOP) Creating a Finance Class
